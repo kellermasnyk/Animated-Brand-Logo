@@ -1,5 +1,7 @@
 # Animated-Brand-Logo
-I created an animated version of a local Denver outdoor gear store’s logo to help them go national.<br><br>In the year 2026, it’s absolutely essential for every brand to utilize motion across their digital branding, and as the most visible part of their branding, the logo is of course no exception. 
+I created an animated version of a local Denver outdoor gear store’s logo to help them go national.
+
+In the year 2026, it’s absolutely essential for every brand to utilize motion across their digital branding, and as the most visible part of their branding, the logo is of course no exception. 
 
 To complete this animated logo for FERAL, a gear shop in Denver who I’m working with to scale heir used gear sales, and their brand, nationally, I began by pulling a vector of their logo into Adobe Illustrator. I then split its logo up into its parts: the individual letters and the two ice climbing axes. I the. moved the logo into Principle via Figma and got to work animating its pieces. 
 
